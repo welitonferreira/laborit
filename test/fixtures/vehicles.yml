@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  value: MyString
+  brand: one
+  model: one
+  yearModel: MyString
+  fuel: MyString
+
+two:
+  value: MyString
+  brand: two
+  model: two
+  yearModel: MyString
+  fuel: MyString
